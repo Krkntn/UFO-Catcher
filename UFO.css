@@ -31,5 +31,10 @@ span {
 }
 
 #rightButton {
-    font-size : 40px;
+
+    font-size : 300px;
+    position:relative;
+    margin-left: 200px;
+    margin-top: 20px;
+
 }
