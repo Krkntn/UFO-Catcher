@@ -149,3 +149,5 @@ let moveInterval;
         dropCrane({code: "Space" });
     });
 
+    rightButton.addEventListener("contextmenu", e => e.preventDefault());
+
