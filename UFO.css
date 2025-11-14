@@ -36,10 +36,10 @@ span {
     position:relative;
     margin-left: 200px;
     margin-top: 20px;
+}
+
+.arrow {
     user-select: none;
     -webkit-user-select: none;
-    -webkit-tap-highlight-color: transparent;
-    -webkit-touch-callout: none;
-    touch-action: manipulation;
-
+    pointer-events: none;
 }
