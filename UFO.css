@@ -36,5 +36,6 @@ span {
     position:relative;
     margin-left: 200px;
     margin-top: 20px;
+    user-select: none;
 
 }
