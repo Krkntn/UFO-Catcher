@@ -141,7 +141,6 @@ let moveInterval;
         clearInterval(moveInterval);
         dropCrane({code: "Space" });
     });
-
     rightButton.addEventListener("touchstart", () => {
         moveInterval = setInterval(moveCraneButton, 50);
     });
